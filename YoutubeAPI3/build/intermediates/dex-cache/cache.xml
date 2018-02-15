@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.3.0_0d7b9a7cc7c4450fb3f0cf2ed0e16924070aecca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/5ba17b8a7d4bb88cd2aaa3d8858fb9ffebcca88c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa1417ae279a98039901f7f18aebd4ce3ecfe407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/9395ba337b4db23c151a572a6d84ee3e561e1b93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a697d17d828f66f586a4f160ec438c82439877a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/5c1e598283ab56e69870a6a37e095213203ec118/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74eb9b585cb80e4672bee540b234a9f2208eceda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/exploded-aar/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86c68e5759eac01405b314bcae8e89525ba05bb8">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.HaarigerHarald-android-youtubeExtractor-master-SNAPSHOT_5d65cbe372e1668ccb6d12c28b970508c9cf74be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_feab53768ef5679736641f4f0af12d0dc7be5e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_56cf16ec3721b58197378f350909573311eac401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/7d55ac03315fadd0034396ee321739fff0a25bfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71f6ba3ed8a864ae3334af0dd954b3b9efb3286c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_43a1f2b71ade4172f420f333026a867d4d32cd4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_40b8947e69482a362f499d0a6ad8ee382cc7e9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_c906505e275fd3d3879352f85423fbe8cd9048a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/2e5560fb109d32b2714aa8cae60a26b0c0f308b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e06220c8a480232f866f7595e72bd991bd72f3e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e999039298770916b97724f0341636b8fecb24b7">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1474c204aec4a7d8ebb259f0cd64922520ba5bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/86e5e3b943d19787cbc4964778816f194ee7e3d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f88c141d5bc7b09e8a46663bd62a999e8653aa2c">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e44f204841d6c4a8bdad45d203c455317f0eba8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/adbfc9f32158ffaa78211ca492492e5b7a770343/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18aac165e7c304c6a0f14d185a579015a7034090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/f58db07ed6c2b90c7f473fa7d56bf05db3ad2e7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4309da8ae52c7d624aa130e9f5a962c02901500c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/21e1be67183cf1b627a8df0ee9ec66654982d217/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47f4a8ca927ab65653ca09c7ee6f2c4bf3f59a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/e6355d9b74e746289632765673aef33a6b5c2094/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbf17d8a30242b99beea508db89841de690fe7fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/800cef1e32a9657b3be46e36aa21949ac5b73e2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_319c39f1edbc8d2a7b11cc96ad3c222c0da74618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/0810f0f1e8d5cf38824b37a1a4565d6efa566402/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f3bc4ec9f9e1cc374f0b83e912d7739e4b7525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/9afb4ac1abe4aba561f0ffc25f4b67d59c00f9a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836a80a166b9671d53b2a370c99ff06e909b5490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.3.0_e832ed74eb8d5bdee69c51924159288f979ec9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.android/build-cache/38070bc8a1a7a7c62ef3f53c7cd4d650aa02244e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc34f4efccb4a448177608719911e85023a8b41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ozinii/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/ozinii/AndroidStudioProjects/YoutubeAPIV3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_4ee74e13696d84dbe417009defaad326506eb3a2/classes.dex" />
+    </item>
+
+</items>
